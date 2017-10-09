@@ -1,3 +1,10 @@
+:warning: Yeah.. sorry, no TDD yet.. 
+
+The thing is, mocking in crystal is far from being easy..
+Mocks seem to be definitly doable but the current implementation being used just breaks existing static typings.. so.. Still needs a lot more research
+
+I take all help I can get..
+
 # Description
 
 A simple CLI app that retrieves book information details from Google Books API.
